@@ -1,0 +1,15 @@
+#Hero-Section {
+    background-image: url("../img/fotoperfil.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+
+  .bg-secondary {
+    --bs-bg-opacity: 0.5;
+    background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  }
+
+  .card img{
+    height: 100%;
+  }
